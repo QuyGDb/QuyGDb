@@ -9,7 +9,7 @@ I'm a game programmer.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=QuyGDb&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Quote
-<img src="https://github.com/user-attachments/assets/15b764a1-d60b-48d1-ade3-19c39113bcc9" width="300">
+<img src="https://github.com/user-attachments/assets/15b764a1-d60b-48d1-ade3-19c39113bcc9" width="200">
 
 
 
