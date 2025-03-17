@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a game programmer.
+I'm a Unity Developer.
 
 
 # 💻 Tech Stack:
